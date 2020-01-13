@@ -1,1 +1,1 @@
-# 2D-Function-Reconstruction_Neural-Nets
+## Two dimensional function reconstruction using neural networks
