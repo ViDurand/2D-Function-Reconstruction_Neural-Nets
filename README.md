@@ -14,6 +14,10 @@ This repository contains implementions of neural networks in python language for
 
 We impleted the following algorithms:
 
-* a shallow Feedforward Neural Network (FNN) of type MLP (Multi Layer Perceptron) with only one hidden layer. 
+* MLP (Multi Layer Perceptron) network with only one hidden layer.
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+* RBF (Radial Basis Function) network
+
+* Two blocks methods (for both MLP and RBF)
+
+* Decomposition method
