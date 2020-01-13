@@ -10,4 +10,10 @@ This repository contains implementions of neural networks in python language for
 
 * Project report: https://github.com/ViDurand/2D-Function-Reconstruction_Neural-Nets/blob/master/Report/report.pdf
 
+## Implemented algorithms
 
+We impleted the following algorithms:
+
+* a shallow Feedforward Neural Network (FNN) of type MLP (Multi Layer Perceptron) with only one hidden layer. 
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
